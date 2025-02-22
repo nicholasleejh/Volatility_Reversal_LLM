@@ -11,4 +11,5 @@ Traders and investors are constantly being bombarded with an endless stream of n
 
 Folder navigation:
 Data obtained from Refinitv Data Platform on 13/02/2025. Data is stored with the data folder.
-Code is stored with the src folder.
+Code is stored with the src folder. Please run the file src/volatility_reversal.ipynb.
+A copy has been made under the main folder, but only as reference.
